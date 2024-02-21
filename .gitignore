@@ -1,0 +1,9 @@
+.idea
+__pycache__
+venv
+FAQ.csv
+uzbek_question.csv
+mohirdev_index.index
+mohirdev_uzb_index.index
+voice_message.ogg
+voice_message.wav
